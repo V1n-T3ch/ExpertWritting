@@ -4,7 +4,7 @@ const Hero = () => {
       {/* Left side: Image */}
       <div className="w-full sm:w-1/2">
         <img 
-          src="/src/components/home.jpg" 
+          src="/public/home.jpg" 
           alt="Hero Image" 
           className="w-full h-auto rounded-lg shadow-lg"
         />
