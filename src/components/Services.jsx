@@ -3,7 +3,7 @@ import { Clock, Crown, EyeOff, Headset, PenTool, ScrollText } from "lucide-react
 const Services = () => {
   return (
     <div id="services" className="services bg-gray-100 py-16">
-        <h2 className="text-3xl font-bold text-center mb-10">Why Pick Expert Writing</h2>
+        <h2 className="text-3xl font-bold text-center mb-10">Why Pick Us?</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             {/* Service Card */}
             <div className="service-card bg-white shadow-md rounded-lg p-6 text-center">

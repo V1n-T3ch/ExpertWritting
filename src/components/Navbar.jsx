@@ -35,7 +35,7 @@ const Navbar = () => {
     <nav className="flex fixed top-0 left-0 right-0 z-50 justify-between items-center p-4 bg-white text-black shadow-md">
       {/* Logo */}
       <div className="text-2xl font-bold text-yellow-400">
-        <Link to="/" onClick={closeMenu}>Expert Writing</Link>
+        <Link to="/" onClick={closeMenu}>Expert Assignment Writing</Link>
       </div>
 
       {/* Mobile Menu Button */}

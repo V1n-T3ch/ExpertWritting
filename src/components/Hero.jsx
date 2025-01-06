@@ -12,8 +12,8 @@ const Hero = () => {
       
       {/* Right side: Text and Button */}
       <div className="w-full sm:w-1/2 flex flex-col items-center sm:items-start justify-center text-center sm:text-left">
-        <h1 className="text-4xl sm:text-5xl font-bold text-blue-600 mb-4">
-          Welcome to Expert Writing
+        <h1 className="text-4xl sm:text-5xl font-bold text-yellow-400 mb-4">
+          Welcome to Expert Assignment Writing
         </h1>
         <p className="text-lg sm:text-xl text-gray-700 mb-6">
           Get your academic papers written by experts. Reliable, fast, and professional.
